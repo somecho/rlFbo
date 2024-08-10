@@ -61,7 +61,7 @@ void main(){
 ```
 
 ## TODO
-
+- [ ] [Match OpenGL internalformat to Raylib's PixelFormat.](https://github.com/somecho/rlFbo/issues/1)
 ---
 
 MIT License, Copyright © 2024 Somē Cho
