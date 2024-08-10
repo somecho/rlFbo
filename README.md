@@ -64,4 +64,4 @@ void main(){
 
 ---
 
-© 2024 Somē Cho
+MIT License, Copyright © 2024 Somē Cho
